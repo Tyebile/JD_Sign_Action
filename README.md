@@ -1,7 +1,7 @@
 # 基于github action的京东自动化签到
 
 ## PS
-> 修改readme,触发自动执行
+> 修改readme,触发自动执行+1
 
 ## 介绍
 
